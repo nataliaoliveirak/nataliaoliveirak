@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Natália! 👋
 
-<!--
-**nataliaoliveirak/nataliaoliveirak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Engenharia de Computação
+Estou no último ano de graduação e focada em transição de carreira para a área de tecnologia, com foco em desenvolvimento Java e Banco de Dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 💻 Atualmente estudando **Java** e **Oracle SQL**.
+- 🛠️ Desenvolvendo projetos práticos para aplicar conceitos de POO e persistência de dados.
+- 🎓 Buscando oportunidades de **Estágio** ou **Desenvolvedora Junior**.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java (Intermediário), SQL (Básico)
+- **IDEs e Ferramentas:** IntelliJ IDEA, Oracle SQL Developer, Git & GitHub
+- **Bancos de Dados:** Oracle Database, MySQL
+
+### 📬 Contato
+- **LinkedIn:** (linkedin.com/in/natalia-oliveira](https://www.linkedin.com/in/natalia-oliveira-5b509112a/)
+- **E-mail:** nataliaoli123@hotmail.com
+
+---
+*“A persistência é o caminho do êxito.”*
