@@ -11,7 +11,7 @@ Estou no último ano de graduação e focada em transição de carreira para a �
 - 🎓 Buscando oportunidades de **Estágio** ou **Desenvolvedora Junior**.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java (Intermediário), SQL (Básico)
+- **Linguagens:** Java (Básico), SQL (Básico)
 - **IDEs e Ferramentas:** IntelliJ IDEA, Oracle SQL Developer, Git & GitHub
 - **Bancos de Dados:** Oracle Database, MySQL
 
