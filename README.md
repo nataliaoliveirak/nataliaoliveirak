@@ -16,7 +16,7 @@ Estou no último ano de graduação e focada em transição de carreira para a �
 - **Bancos de Dados:** Oracle Database, MySQL
 
 ### 📬 Contato
-- **LinkedIn:** (linkedin.com/in/natalia-oliveira](https://www.linkedin.com/in/natalia-oliveira-5b509112a/)
+- **LinkedIn:** (https://www.linkedin.com/in/natalia-oliveira-5b509112a/)
 - **E-mail:** nataliaoli123@hotmail.com
 
 ---
